@@ -70,6 +70,8 @@ This project simulates a typical network structure with two internal subnets and
 - Ensure least privilege in all ACLs.
 - Validate that internal devices cannot be reached from outside.
 
+## Screenshots
+
 *Img 1: DMZ Topology*<br>
 ![DMZ diagram drawio](https://github.com/user-attachments/assets/4bebfeb4-9360-4ebe-a8fa-66cc3a51bb7e)
 
